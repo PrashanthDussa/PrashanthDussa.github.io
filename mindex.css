@@ -71,7 +71,7 @@
                     /* scroll-behavior: smooth; */
                }
                #intro {
-                    width: 80%;
+                    width: 90%;
                     margin: auto;
                     text-align: center;
                     background: black;
@@ -80,7 +80,7 @@
                     opacity: 0.8;
                }
                #education {
-                    width: 950px;
+                    width: 90px;
                     margin: auto;
                     text-align: left;
                     background: black;
@@ -89,7 +89,7 @@
                     opacity: 0.8;
                }
                #otherinterests {
-                    width: 950px;
+                    width: 90px;
                     margin: auto;
                     background: black;
                     padding: 20px;
@@ -97,7 +97,7 @@
                     opacity: 0.8;
                }
                #contact {
-                    width: 950px;
+                    width: 90px;
                     margin: auto;
                     background: black;
                     padding: 20px;
