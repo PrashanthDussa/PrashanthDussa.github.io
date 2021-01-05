@@ -1,0 +1,139 @@
+               a:hover {
+                    color: orange;
+               }
+               #nav {
+                    list-style-type: none;
+                    margin: 0;
+                    padding: 0;
+                    overflow: hidden;
+                    width: 100%;
+                    background-color: black;
+               }
+               #foot {
+                    list-style-type: none;
+                    margin: 0;
+                    padding: 0;
+                    overflow: hidden;
+                    width: 100%;
+                    background-color: black;
+               }
+               #foot li {
+                    float: left;
+                    font-size: 20px;
+                    width: 100%;
+                    font-family: fantasy;
+               }
+               #foot li a {
+                    display: block;
+                    width: 90%;
+                    color: white;
+                    text-align: center;
+                    text-decoration: none;
+                    -webkit-transition: all 1s ease;
+               }
+               #foot li a:visited {
+                    color: white;
+               }
+               #foot li a:hover {
+                    color: orange;
+               }
+               li {
+                    float: left;
+                    font-size: 20px;
+                    font-family: fantasy;
+               }
+               li a {
+                    display: block;
+                    padding: 14px 120px;
+                    color: white;
+                    text-align: center;
+                    text-decoration: none;
+                    -webkit-transition: all 1s ease;
+               }
+               li a:visited {
+                    color: white;
+               }
+               li a:hover {
+                    color: orange;
+               }
+               span a:visited {
+                    color: white;
+               }
+               span a:hover {
+                    color: lightgreen;
+               }
+               html {
+                    background: url(back.png) no-repeat center center fixed;
+                    -webkit-background-size: cover;
+                    -moz-background-size: cover;
+                    -o-background-size: cover;
+                    background-size: cover;
+                    /* scroll-behavior: smooth; */
+               }
+               #intro {
+                    width: 950px;
+                    margin: auto;
+                    text-align: center;
+                    background: black;
+                    padding: 20px;
+                    border-radius: 20px;
+                    opacity: 0.8;
+               }
+               #education {
+                    width: 950px;
+                    margin: auto;
+                    text-align: left;
+                    background: black;
+                    padding: 20px;
+                    border-radius: 20px;
+                    opacity: 0.8;
+               }
+               #otherinterests {
+                    width: 950px;
+                    margin: auto;
+                    background: black;
+                    padding: 20px;
+                    border-radius: 20px;
+                    opacity: 0.8;
+               }
+               #contact {
+                    width: 950px;
+                    margin: auto;
+                    background: black;
+                    padding: 20px;
+                    border-radius: 20px;
+                    opacity: 0.8;
+               }
+               h2 {
+                    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI',
+                         Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans',
+                         'Helvetica Neue', sans-serif;
+                    color: lightseagreen;
+                    text-align: center;
+                    font-weight: bolder;
+                    font-size: 30px;
+               }
+               p {
+                    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI',
+                         Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans',
+                         'Helvetica Neue', sans-serif;
+                    font-size: 18px;
+                    color: white;
+                    line-height: 1.8;
+               }
+               span {
+                    color: green;
+                    font-size: 18px;
+                    font-weight: bold;
+                    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI',
+                         Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans',
+                         'Helvetica Neue', sans-serif;
+               }
+               span.a {
+                    color: orange;
+                    font-size: 20px;
+                    font-weight: bold;
+                    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI',
+                         Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans',
+                         'Helvetica Neue', sans-serif;
+               }
