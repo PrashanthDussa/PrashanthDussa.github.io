@@ -80,7 +80,7 @@
                     opacity: 0.8;
                }
                #education {
-                    width: 90px;
+                    width: 90%;
                     margin: auto;
                     text-align: left;
                     background: black;
@@ -89,7 +89,7 @@
                     opacity: 0.8;
                }
                #otherinterests {
-                    width: 90px;
+                    width: 90%;
                     margin: auto;
                     background: black;
                     padding: 20px;
@@ -97,7 +97,7 @@
                     opacity: 0.8;
                }
                #contact {
-                    width: 90px;
+                    width: 90%;
                     margin: auto;
                     background: black;
                     padding: 20px;
