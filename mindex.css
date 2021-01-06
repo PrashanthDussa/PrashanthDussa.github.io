@@ -19,9 +19,9 @@
                }
                #foot li {
                     float: left;
-                    font-size: 20px;
+                    font-size: 16px;
                     width: 100%;
-                    font-family: fantasy;
+                    font-family: Arial, sans-serif;
                }
                #foot li a {
                     display: block;
@@ -40,7 +40,7 @@
                li {
                     float: left;
                     font-size: 16px;
-                    font-family: fantasy;
+                    font-family: Arial, sans-serif;
                }
                li a {
                     display: block;
