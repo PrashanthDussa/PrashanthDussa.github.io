@@ -9,7 +9,7 @@ a:hover {
                #foot {
                     list-style-type: none;
                     margin: 0;
-                    padding: 0;
+                    padding-top: 10px;
                     overflow: hidden;
                     width: 100%;
                     background-color: black;
@@ -50,18 +50,22 @@ a:hover {
                      width: 90%;
                     margin: auto;
                     background: black;
-                    padding: 20px;
+                    padding: 30px;
                     border-radius: 20px;
                     opacity: 0.8;
                     margin-top: 20px;
                 }
+               #intro{
+                     text-align: center;
+               }
                h2 {
                     font-family: "Open Sans";
                     color: lightseagreen;
                     text-align: center;
                     font-weight: bolder;
                     font-size: 30px;
-                    padding-top: 15px;
+                    padding-top: 30px;
+                    padding-bottom: 15px;
                }
                p {
                     font-family: "Poppins";
