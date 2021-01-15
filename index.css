@@ -61,7 +61,7 @@
                     border-radius: 20px;
                     opacity: 0.8;
                }
-               #otherinterests {
+               #otherInterests {
                     width: 90%;
                     margin: auto;
                     background: black;
@@ -114,7 +114,7 @@
      display: block;
      color: #f2f2f2;
      text-align: center;
-     padding: 12px 120px;
+     padding: 12px 100px;
      text-decoration: none;
      font-size: 17px;
 }
