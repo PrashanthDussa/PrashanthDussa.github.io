@@ -41,6 +41,16 @@
                span a:hover {
                     color: lightgreen;
                }
+   .topnav {
+     overflow: hidden;
+     background: linear-gradient(to bottom right, #2c3e50 0%, #bdc3c7 100%);
+     opacity: 0.8;
+     font-family: "Poppins";
+}
+.topnav a:hover {
+     background-color: #336b89;
+     color: white;
+}
          .topnav a:not(:first-child) {
           display: none;
      }
@@ -86,6 +96,7 @@
                     padding: 20px;
                     border-radius: 20px;
                     opacity: 0.8;
+                 margin-top: 30px;
                }
                #education {
                     width: 90%;
