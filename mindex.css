@@ -98,8 +98,11 @@ a:hover {
                     padding: 30px;
                     border-radius: 20px;
                     opacity: 0.8;
-                    margin-top: 10px;
+                    margin-top: 3px;
                 }
+                #intro{
+                     text-align: center;
+               }
                h2 {
                     font-family: "Open Sans";
                     color: lightseagreen;
