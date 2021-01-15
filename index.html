@@ -10,6 +10,14 @@
           <link rel="stylesheet" type="text/css" media="screen and (min-width: 500px)" href="/index.css"/>
           <link rel="stylesheet" type="text/css" media="screen and (max-width: 499px)" href="/mindex.css"/>
           <link rel="icon" href="icon.png" type="image/png" style="width: 100%; height: 100%" />
+          <link
+               rel="stylesheet"
+               href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+          />
+           <link
+               rel="stylesheet"
+               href="https://fonts.googleapis.com/css?family=Open+Sans|Poppins&effect=anaglyph|fire"
+          />
           <script
                type="text/javascript"
                src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.7.1.min.js"
@@ -25,15 +33,29 @@
                          1500
                     );
                });
+                $(window).on("load", function () {
+                    $(".loader-wrapper").fadeOut("slow");
+               });
           </script>
      </head>
      <body>
-          <ul id="nav">
-               <li><a href="#intro">Introduction</a></li>
-               <li><a href="#education">Education</a></li>
-               <li><a href="#otherinterests">Other Interests</a></li>
-               <li><a href="#contact">Contact</a></li>
-          </ul>
+          <div class="loader-wrapper" id="loader-wrapper">
+               <span class="loader"><span class="loader-inner"></span></span>
+          </div>
+          <div class="topnav" id="myTopnav">
+               <a href="#intro" class="active">Introduction</a>
+               <a href="#education">Education</a>
+               <a href="#otherInterests">Other Interests</a>
+               <a href="#contact">Contact</a>
+               <a
+                    href="javascript:void(0);"
+                    class="icon"
+                    onclick="myFunction()"
+               >
+                    <i class="fa fa-bars"></i>
+               </a>
+               
+          </div>
           <br />
           <div id="intro">
                <h2>Introduction</h2>
@@ -83,7 +105,7 @@
                </p>
           </div>
           <br />
-          <div id="otherinterests">
+          <div id="otherInterests">
                <h2>Other Interests</h2>
                <p>
                     <span class="a">Sports</span><br /><span
@@ -116,5 +138,15 @@
           <ul id="foot">
                <li><a href="#nav">Go Top</a></li>
           </ul>
+          <script>
+               function myFunction() {
+                    var x = document.getElementById("myTopnav");
+                    if (x.className === "topnav") {
+                         x.className += " responsive";
+                    } else {
+                         x.className = "topnav";
+                    }
+               }
+          </script>
      </body>
 </html>
