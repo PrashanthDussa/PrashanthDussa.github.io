@@ -45,6 +45,7 @@ a:hover {
                     -moz-background-size: cover;
                     -o-background-size: cover;
                     background-size: cover;
+                    overflow: hidden;
                }
                .container{
                      width: 90%;
