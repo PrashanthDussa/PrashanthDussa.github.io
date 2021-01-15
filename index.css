@@ -48,46 +48,22 @@ a:hover {
                     -o-background-size: cover;
                     background-size: cover;
                }
-               #intro {
-                    width: 90%;
-                    margin: auto;
-                    text-align: center;
-                    background: black;
-                    padding: 20px;
-                    border-radius: 20px;
-                    opacity: 0.8;
-               }
-               #education {
-                    width: 90%;
-                    margin: auto;
-                    text-align: left;
-                    background: black;
-                    padding: 20px;
-                    border-radius: 20px;
-                    opacity: 0.8;
-               }
-               #otherInterests {
-                    width: 90%;
+               .container{
+                     width: 90%;
                     margin: auto;
                     background: black;
                     padding: 20px;
                     border-radius: 20px;
                     opacity: 0.8;
-               }
-               #contact {
-                    width: 90%;
-                    margin: auto;
-                    background: black;
-                    padding: 20px;
-                    border-radius: 20px;
-                    opacity: 0.8;
-               }
+                    margin-top: 20px;
+                }
                h2 {
                     font-family: "Open Sans";
                     color: lightseagreen;
                     text-align: center;
                     font-weight: bolder;
                     font-size: 30px;
+                    padding-top: 15px;
                }
                p {
                     font-family: "Poppins";
