@@ -42,10 +42,11 @@ html {
 }
 
 .container {
-     width: 100vw;
+     width: 90%;
      background: black;
      opacity: 0.8;
      padding: 30px;
+     margin: auto;
 }
 .container h1 {
      font-size: 30px;
@@ -136,6 +137,7 @@ span a:hover {
      }
      .container {
           padding: 0 20px 30px 20px;
+          width: 85%;
           opacity: 0.8;
      }
      .container h1 {
