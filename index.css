@@ -48,6 +48,9 @@ html {
      padding: 30px;
      margin: auto;
 }
+.container #intro{
+     text-align: center;
+}
 .container h1 {
      font-size: 30px;
      font-family: "Open Sans";
