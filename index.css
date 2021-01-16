@@ -141,7 +141,8 @@ span a:hover {
      .container {
           padding: 0 20px 30px 20px;
           width: 85%;
-          opacity: 0.8;
+          background: transparent;
+          /*opacity: 0.8;*/
      }
      .container h1 {
           font-size: 25px;
@@ -163,7 +164,7 @@ span a:hover {
           font-size: 18px;
      }
      html {
-      background: url(back1.jpg) no-repeat center center fixed;
+      background: url(mBack.png) no-repeat center center fixed;
      -webkit-background-size: cover;
      -moz-background-size: cover;
      -o-background-size: cover;
