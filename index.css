@@ -43,10 +43,9 @@ html {
 }
 
 .container {
-     width: 90%;
+     width: 100%;
      background: black;
-     opacity: 0.9;
-     margin: auto;
+     opacity: 0.8;
      padding: 30px;
 }
 .container h1 {
@@ -137,8 +136,7 @@ span a:hover {
           font-size: 17px;
      }
      .container {
-          padding: 0 10px 30px 20px;
-          width: 80%;
+          padding: 0 20px 30px 20px;
           opacity: 0.8;
      }
      .container h1 {
