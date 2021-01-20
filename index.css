@@ -38,7 +38,7 @@ html {
      display: block;
      color: #f2f2f2;
      text-align: center;
-     padding: 12px 90px;
+     padding: 12px 80px;
      text-decoration: none;
      font-size: 18px;
 }
@@ -121,6 +121,12 @@ span a:hover {
 .container #socialMedia {
      padding-top: 10px;
 }
+.container #socialMedia .divide{
+     text-align: center;
+}
+.container #socialMedia .divide .row{
+     width: 50%;
+}
 #linkedIn{
      background: #007bb5;
      color: white;
@@ -129,7 +135,7 @@ span a:hover {
      width: 30px;
      text-align: center;
      text-decoration: none;
-     margin: 5px 10px;
+/*      margin: 5px 10px; */
      border-radius: 50%;
 }
 #github{
@@ -140,7 +146,7 @@ span a:hover {
      width: 30px;
      text-align: center;
      text-decoration: none;
-     margin: 5px 2px;
+/*      margin: 5px 2px; */
      border-radius: 50%;
 }
 @media screen and (max-width: 600px) {
