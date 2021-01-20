@@ -130,7 +130,7 @@ span a:hover {
      width: 30px;
      text-align: center;
      text-decoration: none;
-/*      margin: 5px 10px; */
+     margin: 5px 50px;
      border-radius: 50%;
 }
 #github{
@@ -141,7 +141,7 @@ span a:hover {
      width: 30px;
      text-align: center;
      text-decoration: none;
-/*      margin: 5px 2px; */
+     margin: 5px 50px;
      border-radius: 50%;
 }
 @media screen and (max-width: 600px) {
