@@ -38,7 +38,7 @@ html {
      display: block;
      color: #f2f2f2;
      text-align: center;
-     padding: 12px 80px;
+     padding: 12px 75px;
      text-decoration: none;
      font-size: 18px;
 }
@@ -121,12 +121,7 @@ span a:hover {
 .container #socialMedia {
      padding-top: 10px;
 }
-.container #socialMedia .divide{
-     text-align: center;
-}
-.container #socialMedia .divide .row{
-     width: 50%;
-}
+
 #linkedIn{
      background: #007bb5;
      color: white;
