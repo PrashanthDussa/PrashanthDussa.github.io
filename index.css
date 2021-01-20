@@ -38,7 +38,7 @@ html {
      display: block;
      color: #f2f2f2;
      text-align: center;
-     padding: 12px 78px;
+     padding: 12px 82px;
      text-decoration: none;
      font-size: 18px;
 }
@@ -127,7 +127,7 @@ span a:hover {
      color: white;
      padding: 20px;
      font-size: 25px;
-     width: 30px;
+     width: 20px;
      text-align: center;
      text-decoration: none;
      margin: 5px 100px;
@@ -138,7 +138,7 @@ span a:hover {
      color: white;
      padding: 20px;
      font-size: 25px;
-     width: 30px;
+     width: 20px;
      text-align: center;
      text-decoration: none;
      margin: 5px 100px;
@@ -207,7 +207,7 @@ span a:hover {
      color: white;
      padding: 20px;
      font-size: 20px;
-     width: 30px;
+     width: 20px;
      text-align: center;
      text-decoration: none;
      margin: 20px 50px;
@@ -218,7 +218,7 @@ span a:hover {
      color: white;
      padding: 20px;
      font-size: 20px;
-     width: 30px;
+     width: 20px;
      text-align: center;
      text-decoration: none;
      margin: 20px 50px;
