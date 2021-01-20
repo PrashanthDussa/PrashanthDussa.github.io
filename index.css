@@ -38,7 +38,7 @@ html {
      display: block;
      color: #f2f2f2;
      text-align: center;
-     padding: 12px 120px;
+     padding: 12px 90px;
      text-decoration: none;
      font-size: 18px;
 }
@@ -129,7 +129,7 @@ span a:hover {
      width: 30px;
      text-align: center;
      text-decoration: none;
-     margin: 5px 2px;
+     margin: 5px 10px;
      border-radius: 50%;
 }
 #github{
