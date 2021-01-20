@@ -125,24 +125,24 @@ span a:hover {
 #linkedIn{
      background: #007bb5;
      color: white;
-     padding: 10px;
-     font-size: 25px;
-     width: 20px;
+     padding: 20px;
+     font-size: 30px;
+     width: 30% ;
      text-align: center;
      text-decoration: none;
-     margin: auto;
-     border-radius: 50%;
+     margin: 20px;
+     border-radius: 30px;
 }
 #github{
      background: #dd4b39;
      color: white;
-     padding: 10px;
-     font-size: 25px;
-     width: 20px;
+     padding: 20px;
+     font-size: 30px;
+     width: 30%;
      text-align: center;
      text-decoration: none;
-     margin: auto;
-     border-radius: 50%;
+     margin: 20px;
+     border-radius: 30px;
 }
 @media screen and (max-width: 600px) {
      .topnav a:not(:first-child) {
