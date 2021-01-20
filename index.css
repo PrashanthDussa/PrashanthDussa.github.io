@@ -38,7 +38,7 @@ html {
      display: block;
      color: #f2f2f2;
      text-align: center;
-     padding: 12px 75px;
+     padding: 12px 78px;
      text-decoration: none;
      font-size: 18px;
 }
@@ -126,22 +126,22 @@ span a:hover {
      background: #007bb5;
      color: white;
      padding: 20px;
-     font-size: 30px;
+     font-size: 25px;
      width: 30px;
      text-align: center;
      text-decoration: none;
-     margin: 5px 50px;
+     margin: 5px 100px;
      border-radius: 50%;
 }
 #github{
      background: #dd4b39;
      color: white;
      padding: 20px;
-     font-size: 30px;
+     font-size: 25px;
      width: 30px;
      text-align: center;
      text-decoration: none;
-     margin: 5px 50px;
+     margin: 5px 100px;
      border-radius: 50%;
 }
 @media screen and (max-width: 600px) {
@@ -202,6 +202,28 @@ span a:hover {
      .container h2 a {
           font-size: 18px;
      }
+     #linkedIn{
+     background: #007bb5;
+     color: white;
+     padding: 20px;
+     font-size: 20px;
+     width: 30px;
+     text-align: center;
+     text-decoration: none;
+     margin: 20px 50px;
+     border-radius: 50%;
+}
+#github{
+     background: #dd4b39;
+     color: white;
+     padding: 20px;
+     font-size: 20px;
+     width: 30px;
+     text-align: center;
+     text-decoration: none;
+     margin: 20px 50px;
+     border-radius: 50%;
+}
      html {
       background: url(mBack.png) no-repeat center center fixed;
      -webkit-background-size: cover;
