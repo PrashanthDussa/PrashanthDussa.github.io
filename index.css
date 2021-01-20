@@ -118,6 +118,9 @@ span a:hover {
 .container #contact {
      padding-top: 10px;
 }
+.container #socialMedia {
+     padding-top: 10px;
+}
 #linkedIn{
      background: #007bb5;
      color: white;
