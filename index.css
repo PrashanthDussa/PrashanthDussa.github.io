@@ -130,7 +130,7 @@ span a:hover {
      width: 15%;
      text-align: center;
      text-decoration: none;
-     margin: 50px 20px 50px 0;
+     margin: 50px 40px 50px 0;
      border-radius: 10px;
 }
 #github {
@@ -141,7 +141,7 @@ span a:hover {
      width: 15%;
      text-align: center;
      text-decoration: none;
-     margin: 50px 20px 50px 20px;
+     margin: 50px 40px 50px 40px;
      border-radius: 10px;
 }
 #insta {
@@ -152,7 +152,7 @@ span a:hover {
      width: 15%;
      text-align: center;
      text-decoration: none;
-     margin: 50px 20px 50px 20px;
+     margin: 50px 20px 50px 40px;
      border-radius: 10px;
 }
 @media screen and (max-width: 600px) {
