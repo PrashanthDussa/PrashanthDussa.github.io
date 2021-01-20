@@ -3,29 +3,29 @@
      padding: 0;
      border: 0;
 }
-:root{
-   scrollbar-color: #2d4059 #1d191f !important;
-   scrollbar-width: thin !important;  
+:root {
+     scrollbar-color: #2d4059 #1d191f !important;
+     scrollbar-width: thin !important;
 }
-::-webkit-scrollbar{
+::-webkit-scrollbar {
      width: 15px;
 }
-::-webkit-scrollbar-track{
-      background: #1d191f;
+::-webkit-scrollbar-track {
+     background: #1d191f;
 }
-::-webkit-scrollbar-thumb{
-      background: #2d4059;
+::-webkit-scrollbar-thumb {
+     background: #2d4059;
 }
 body {
      margin: 0;
      padding: 0;
 }
 html {
-      background: url(back.png) no-repeat center center fixed;
+     background: url(back.png) no-repeat center center fixed;
      -webkit-background-size: cover;
      -moz-background-size: cover;
      -o-background-size: cover;
-     background-size: cover; 
+     background-size: cover;
 }
 .topnav {
      overflow: hidden;
@@ -61,7 +61,7 @@ html {
      padding: 30px;
      margin: auto;
 }
-.container #intro{
+.container #intro {
      text-align: center;
 }
 .container h1 {
@@ -122,37 +122,37 @@ span a:hover {
      padding-top: 10px;
 }
 
-#linkedIn{
+#linkedIn {
      background: #007bb5;
      color: white;
-     padding: 15px;
-     font-size: 30px;
-     width: 15% ;
+     padding: 10px;
+     font-size: 25px;
+     width: 15%;
      text-align: center;
      text-decoration: none;
-     margin: 20px;
+     margin: 50px 20px 50px 0;
      border-radius: 15px;
 }
-#github{
+#github {
      background: #dd4b39;
      color: white;
-     padding: 15px;
-     font-size: 30px;
+     padding: 10px;
+     font-size: 25px;
      width: 15%;
      text-align: center;
      text-decoration: none;
-     margin: 20px;
+     margin: 50px 20px 50px 20px;
      border-radius: 15px;
 }
-#insta{
+#insta {
      background: #125688;
      color: white;
-     padding: 15px;
-     font-size: 30px;
+     padding: 10px;
+     font-size: 25px;
      width: 15%;
      text-align: center;
      text-decoration: none;
-     margin: 20px;
+     margin: 50px 20px 50px 20px;
      border-radius: 15px;
 }
 @media screen and (max-width: 600px) {
@@ -213,47 +213,47 @@ span a:hover {
      .container h2 a {
           font-size: 18px;
      }
-     #linkedIn{
-     background: #007bb5;
-     color: white;
-     padding: 10px;
-     font-size: 20px;
-     width: 20%;
-     text-align: center;
-     text-decoration: none;
-     margin: 10px;
-     border-radius: 10px;
-}
-#github{
-     background: #dd4b39;
-     color: white;
-     padding: 10px;
-     font-size: 20px;
-     width: 20%;
-     text-align: center;
-     text-decoration: none;
-     margin: 10px;
-     border-radius: 10px;
-}
-     #insta{
-     background: #125688;
-     color: white;
-     padding: 10px;
-     font-size: 20px;
-     width: 20%;
-     text-align: center;
-     text-decoration: none;
-     margin: 10px;
-     border-radius: 10px;
-}
+     #linkedIn {
+          background: #007bb5;
+          color: white;
+          padding: 10px;
+          font-size: 20px;
+          width: 20%;
+          text-align: center;
+          text-decoration: none;
+          margin: 10px;
+          border-radius: 10px;
+     }
+     #github {
+          background: #dd4b39;
+          color: white;
+          padding: 10px;
+          font-size: 20px;
+          width: 20%;
+          text-align: center;
+          text-decoration: none;
+          margin: 10px;
+          border-radius: 10px;
+     }
+     #insta {
+          background: #125688;
+          color: white;
+          padding: 10px;
+          font-size: 20px;
+          width: 20%;
+          text-align: center;
+          text-decoration: none;
+          margin: 10px;
+          border-radius: 10px;
+     }
      html {
-      background: url(mBack.png) no-repeat center center fixed;
-     -webkit-background-size: cover;
-     -moz-background-size: cover;
-     -o-background-size: cover;
-     background-size: cover; 
-     overflow-x: hidden;
-    }
+          background: url(mBack.png) no-repeat center center fixed;
+          -webkit-background-size: cover;
+          -moz-background-size: cover;
+          -o-background-size: cover;
+          background-size: cover;
+          overflow-x: hidden;
+     }
 }
 .loader-wrapper {
      width: 100%;
